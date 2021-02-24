@@ -1,2 +1,2 @@
 # mi_card_flutter
-App cartão de apresentação feito em flutter.
+App mobile cartão de apresentação feito em flutter.
